@@ -1,3 +1,4 @@
 {
-  "allowVizzleExecution": false
+  "allowVizzleExecution": false,
+  "activeVizzleVersion": "v0.1.2"
 }
